@@ -1,0 +1,17 @@
+lib/
+syn/
+temp/
+alib-52/
+*.log
+*.svf
+ucli.key
+*.daidir
+*.vdb
+csrc/
+urgReport/
+DVEfiles/
+*sim
+*.vpd
+*.old
+*.h
+.vscode
